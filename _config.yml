@@ -1,0 +1,28 @@
+name: Hathaway
+favicon: null
+layout_spectrum: 0.4750670427456498
+typography_spectrum: 0.641478881938383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.608383922604844
+  lightness: 0.16468579089269042
+  saturation: 0.23665529862046242
+  rhythmicContrast: 0.32505571958608925
+purpose: []
