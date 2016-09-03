@@ -1,19 +1,4 @@
-name: Hathaway
-favicon: null
-layout_spectrum: 0.4750670427456498
 typography_spectrum: 0.641478881938383
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,23 @@ color:
   lightness: 0.16468579089269042
   saturation: 0.23665529862046242
   rhythmicContrast: 0.32505571958608925
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4750670427456498
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Ben Hathaway
+  email: ben@hathaway.cc
+  url: hathaway.cc
+name: Hathaway
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
